@@ -6,16 +6,23 @@ A couple of scripts I made to automate repetitive tasks (such as clicking, bhopp
 
 ### Working
 
-- ./auto/clicker  
-  How to use: press Mouse Button 4.  
-  Rebind: change `$XButton1` to any button  
-- ./auto/bhop
-- ./bind/scroll jump
+#### ./auto/clicker  
+
+- How to use: press Mouse Button 4 to toggle  
+- Rebind: change `$XButton1` to any button
+  
+#### ./auto/bhop  
+
+- How to use: hold Shift and then Space at the same time
+
+#### ./bind/scroll jump  
+
+- How to use: scrollwheel to scroll down
 
 ### Work-in-progress
 
-- [ ] Pickup all items (scroll and press 'F')
 - [ ] Convert all scripts to AutoHotkey v2
+- [ ] Pickup all items (scroll and press 'F')
 
 ## Customize
 
