@@ -19,16 +19,16 @@ A couple of scripts I made to automate repetitive tasks (such as clicking, bhopp
 
 ### Install
 
+[![Download archive](https://img.shields.io/badge/-Download%20repository%20as%20archive-green)](https://github.com/akippnn/genshin-ahks/archive/refs/heads/main.zip)
+
+Then extract the folder with your favorite archive manager tool ([7-Zip](https://www.7-zip.org/) recommended).
+
 > <picture>
 >   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/light-theme/info.svg">
 >   <img alt="Info" src="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/info.svg">
 > </picture><br>
 >
 > It is much preferred to clone this repository, see more [here](https://akippnn.github.io/docs/page/github/repo/clone.html).
-
-[![Download archive](https://img.shields.io/badge/-Download%20repository%20as%20archive-green)](https://github.com/akippnn/genshin-ahks/archive/refs/heads/main.zip)
-
-Then extract the folder with your favorite archive manager tool ([7-Zip](https://www.7-zip.org/) recommended).
 
 ### Run
 
