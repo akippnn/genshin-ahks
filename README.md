@@ -1,6 +1,40 @@
-# Genshin Impact AHK scripts
+# AHK scripts for Genshin Impact
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
 A couple of scripts I made to automate repetitive tasks (such as clicking, bhopping, pickup items, etc.)
+
+## Usage
+
+### Requirements
+
+- Windows 7 or later
+- [Autohotkey v2.0](https://autohotkey.com)  
+  > <picture>
+  >   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/light-theme/tip.svg">
+  >   <img alt="Tip" src="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/tip.svg">
+  > </picture><br>
+  >
+  > Alternatively, for a quicker and less invasive install, use [scoop.sh](https://scoop.sh/) and install packages `aria2` and `autohotkey`.
+
+### Install
+
+> <picture>
+>   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/light-theme/info.svg">
+>   <img alt="Info" src="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/info.svg">
+> </picture><br>
+>
+> It is much preferred to clone this repository, see more [here](https://akippnn.github.io/docs/page/github/repo/clone.html).
+
+[![Download archive](https://img.shields.io/badge/-Download%20repository%20as%20archive-green)](https://github.com/akippnn/genshin-ahks/archive/refs/heads/main.zip)
+
+Then extract the folder with your favorite archive manager tool ([7-Zip](https://www.7-zip.org/) recommended).
+
+### Run
+
+Select the script you want to run (hold `CTRL` to select multiple), right-click any selected item and then choose `Run as administrator`.
+
+You can use the Task Scheduler to run the scripts at start-up.
 
 ## Scripts
 
@@ -19,45 +53,17 @@ A couple of scripts I made to automate repetitive tasks (such as clicking, bhopp
 
 - How to use: scrollwheel to scroll down
 
-### Work-in-progress
-
-- [ ] Convert all scripts to AutoHotkey v2
-- [ ] Pickup all items (scroll and press 'F')
-
-## Customize
-
-### How to rebind
+### Rebinding
 
 Simply right-click a script and press "Edit script". You may want to save this as a new file.
 
-## Usage
+## Roadmap
 
-### Requirements
+### 3/21/2023 - present
 
-- Windows 7 or later
-- [Autohotkey v2.0](https://autohotkey.com)  
-  > <picture>
-  >   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/light-theme/tip.svg">
-  >   <img alt="Tip" src="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/tip.svg">
-  > </picture><br>
-  >
-  > Alternatively, for a quicker install, use [scoop.sh](https://scoop.sh/) and install packages `aria2` and `autohotkey`.
+- [x] Convert all scripts to AutoHotkey v2
+- [ ] Pickup all items (scroll and press 'F' automatically)
 
-### Download
+## Contributing
 
-> <picture>
->   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/light-theme/info.svg">
->   <img alt="Info" src="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/info.svg">
-> </picture><br>
->
-> It is much preferred to use git to clone this repository, this way you can update the scripts easily with `git pull`. See more [here](https://akippnn.github.io/docs/
-
-[Download link](https://github.com/akippnn/genshin-ahks/archive/refs/heads/main.zip)
-
-Then extract the folder with your favorite archive manager tool ([7-Zip](https://www.7-zip.org/) recommended)
-
-### Run
-
-Select the script you want to run (hold `CTRL` to select multiple), right-click any selected item and then choose `Run as administrator`.
-
-You can use the Task Scheduler to run the scripts at start-up.
+All contributions are welcome! [Open an issue](https://github.com/akippnn/genshin-ahks/issues/new) or submit PRs.
