@@ -60,12 +60,7 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-<<<<<<< HEAD
 reported to the community leaders responsible for enforcement at Discord.
-=======
-reported to the community leaders responsible for enforcement at
-[INSERT CONTACT METHOD].
->>>>>>> cdf08f6289cde5faab72d28db000f16f026155e5
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
