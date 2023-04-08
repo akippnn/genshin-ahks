@@ -40,18 +40,22 @@ You can use the Task Scheduler to run the scripts at start-up.
 
 ### Working
 
-#### ./auto/clicker  
+#### ./auto/clicker.ahk  
 
-- How to use: press Mouse Button 4 to toggle  
+- How to use: press Mouse Button 4 to toggle the autoclicker.
 - Rebind: change `$XButton1` to any button
   
-#### ./auto/bhop  
+#### ./auto/bhop.ahk  
 
-- How to use: hold Shift and then Space at the same time
+- How to use: hold Shift and then hold Space as well after a few seconds to initiate bhopping.
 
-#### ./bind/scroll jump  
+#### ./bind/scroll jump.ahk  
 
 - How to use: scrollwheel to scroll down
+
+#### ./bind/mb5 to alt.ahk
+
+- How to use: hold mb5 instead of alt. Useful for activating burst while switching, or while using the in-game cursor.
 
 ### Rebinding
 
@@ -62,6 +66,8 @@ Simply right-click a script and press "Edit script". You may want to save this a
 ### 3/21/2023 - present
 
 - [x] Convert all scripts to AutoHotkey v2
+- [x] Bind the alt+# key to do bursts automatically
+- [ ]
 - [ ] Pickup all items (scroll and press 'F' automatically)
 
 ## Contributing

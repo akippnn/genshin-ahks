@@ -1,16 +1,6 @@
-﻿#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
-; #Warn  ; Enable warnings to assist with detecting common errors.
-SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
-SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
-#IfWinActive ahk_exe GenshinImpact.exe
-+WheelDown::
-Send {Space}
-return
-WheelDown::
-Send {Space}
-return
-+WheelUp::
-Send {Space}
-WheelUp::
-Send {Space}
-#IfWinActive
+﻿#Requires AutoHotkey v2.0
+#HotIf WinActive("ahk_exe GenshinImpact.exe", )
++WheelDown::Space
+WheelDown::Space
++WheelUp::Space
+WheelUp::Space
